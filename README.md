@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-I’m sure most of you have bought a product in Amazon, but first you have looked in the reviews section to see if other customers have found the product useful. If the comment has really helped you to take a decision, you click on the Helpful button. The more clicks this button gets, the higher this review will be in the ranking, so the most helpful comment will appear in the top of the page. But there are also online shops, mainly medium and small companies with fewer resources and poor websites, who have not developed a recommendator system or do not have a big userbase, where all comments are mixed or based on the last written. My algorithm would help to classify reviews by their helpfulness based on Natural Language Processing techniques.
+Most of people look in the review section of Amazon before taking a decision to purchase, to see if other customers have found the product useful. The more helpful the review has been for other users, the higher will appear in the webpage, based on a voting system by users. However, there are online shops, mainly medium and small companies with fewer resources and poor websites, who have not developed a recommendator system or do not have a big userbase, where all comments are mixed or based on the last written. My algorithm would help to classify reviews by their helpfulness based on Natural Language Processing techniques, without the need of human intervention.
 
 **Data analysis:**
 Here’s a list of the major computations done to explore, clean and process the data:
