@@ -6,7 +6,6 @@ Most of people look in the review section of Amazon before taking a decision to 
 
 
 
-
 TEST
 **Analysis:** Here are some of the techniques used to analyze each review:
 * 
